@@ -1,2 +1,1 @@
 hello iam in master
-hello iam in fb git config --global user.name "Your Name"
